@@ -1,0 +1,25 @@
+
+
+1. What is typescript ?
+   TypeScript extends JavaScript and improves the developer experience.
+   TypeScript is a strongly typed programming language that builds on JavaScript.
+   TypeScript adds syntax on top of JavaScript, allowing developers to add types
+
+
+2.Why we have to use the typescript?
+
+  In Javascript It's very difficult to understand what types of data we are passing to the variable.
+  I mean In JavaScript function parameters and variables don't have any information in code declaration.
+
+
+  So Here in typescript:
+  TypeScript allows specifying the types of data being passed around within the code, and has the ability to generate the errors when the types don't match.
+
+  Note : Here types means datatypes
+
+
+
+
+
+
+
